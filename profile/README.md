@@ -1,12 +1,7 @@
-## Hi there 👋
+## Hi👋 We are a Coffee & Rum organization ☕🥃
 
-<!--
+👋👋 Two guys with code writing skills trying their hand at collaborative projects. Feel free to check out our projects, join discussions (in each project's discussion section), create issues, or email us.
 
-**Here are some ideas to get you started:**
+👨‍💻👨‍💻 Everything we do is visible on the GitHub pages of our projects.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🍿🍿 We certainly drink too much coffee, but rarely with alcohol.
